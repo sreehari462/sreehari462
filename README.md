@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="www.sreehari-sk.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sreehari-s-k-6a54533ba/">LinkedIn</a> •
+  <a href="https://www.sreehari-sk.vercel.app">Portfolio</a> •
   <a href="mailto:sreehari.light@gmail.com">Email</a>
 </p>
 
@@ -89,13 +89,13 @@ claim of expertise.*
 ## ▸ CONNECT
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sreehari-s-k-6a54533ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/sreehari462">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sreehari.light@gmail.com">
     <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
