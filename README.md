@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <b>SOFTWARE   INTELLIGENCE   HARDWARE</b>
+  <b>**SOFTWARE**   **AI**   **HARDWARE**</b>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreehari-s-k-6a54533ba/">LinkedIn</a> •
-  <a href="https://www.sreehari-sk.vercel.app">Portfolio</a> •
+  <a href="https://sreehari-sk.vercel.app/">Portfolio</a> •
   <a href="mailto:sreehari.light@gmail.com">Email</a>
 </p>
 
