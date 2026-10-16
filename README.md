@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Sreehari — Robotics & AI"/>
+  <img src="gojo saturo.jpg" width="100%" alt="Sreehari — Robotics & AI"/>
 </p>
 
 <h1 align="center">SREEHARI S K</h1>
