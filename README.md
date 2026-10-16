@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="sreehari-sk.vercel.app">Portfolio</a> •
+  <a href="https://www.sreehari-sk.vercel.app">Portfolio</a> •
   <a href="mailto:sreehari.light@gmail.com">Email</a>
 </p>
 
