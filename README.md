@@ -9,18 +9,18 @@
 </h2>
 
 <p align="center">
-  <b>SOFTWARE × INTELLIGENCE × HARDWARE</b>
+  <b>SOFTWARE   INTELLIGENCE   HARDWARE</b>
 </p>
 
 <p align="center">
-  Building practical systems, exploring AI, and learning robotics
+  Building websites, exploring AI, and learning robotics and embedded systems 
   through experimentation.
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="sreehari-sk.vercel.app">Portfolio</a> •
+  <a href="mailto:sreehari.light@gmail.com">Email</a>
 </p>
 
 ---
@@ -45,9 +45,10 @@ Currently exploring:
 
 | Project | Description | Technologies |
 |:--|:--|:--|
-| <img src="./assets/marksprint.png" width="48" alt="MarkSprint logo"/> **MarkSprint** | Educational quiz platform with subject-wise practice and question imports. | React · Vite · JavaScript |
-| <img src="./assets/lumen.png" width="48" alt="Lumen logo"/> **Lumen** | AI-assisted document processing and note-taking workflow. | Python · Whisper.cpp · Qwen |
-| <img src="./assets/hexabot.png" width="48" alt="Hexabot logo"/> **Hexabot** | Robotics project. Details and implementation to be documented. | To be confirmed |
+| **MarkSprint** | Educational quiz platform with subject-wise practice and question imports. | React · Vite · JavaScript |
+| **Lumen** | AI-assisted document processing and note-taking workflow. | Python · Whisper.cpp · Qwen |
+| **Department website** | PSG iTECH's official robotics and autonomous systems website. | To be confirmed |
+| **Hexabot** | Robotics project. Details and implementation to be documented. | To be confirmed |
 
 > Project descriptions and technology stacks should reflect the
 > actual implementations. Add repository links to the project names
@@ -58,7 +59,7 @@ Currently exploring:
 ## ▸ TECHNOLOGY STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,vite,git,github,linux,vscode&perline=6"
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,vite,git,github,ros,linux,vscode&perline=6"
        alt="Programming languages and development tools"/>
 </p>
 
@@ -84,16 +85,6 @@ claim of expertise.*
 
 ---
 
-## ▸ GITHUB ACTIVITY
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00e5ff&line=8b5cf6&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"/>
-</p>
-
----
 
 ## ▸ CONNECT
 
