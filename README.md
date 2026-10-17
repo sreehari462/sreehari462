@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <b>SOFTWARE   AI   HARDWARE</b>
+  <b>▸  SOFTWARE  ▸  AI  ▸  HARDWARE</b>
 </p>
 
 <p align="center">
@@ -91,6 +91,9 @@ claim of expertise.*
 <p align="center">
   <a href="https://www.linkedin.com/in/sreehari-s-k-6a54533ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/sree_hari462/">
+    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/sreehari462">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
