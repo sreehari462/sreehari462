@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <b>**SOFTWARE**   **AI**   **HARDWARE**</b>
+  <b>SOFTWARE   AI   HARDWARE</b>
 </p>
 
 <p align="center">
